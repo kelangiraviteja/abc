@@ -1,0 +1,7 @@
+bank\pe\processor\example\ExampleProgram.class
+bank\pe\processor\example\Example.class
+bank\config\Config.class
+bank\pe\processor\example\ExampleParameters.class
+bank\config\ConfigKeys.class
+bank\Init.class
+bank\pe\processor\example\ExampleController.class
